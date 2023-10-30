@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItIsThyme
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning networking and Internet Protocols
+- 🌱 I’m currently working in React and .NET
 - 💞️ I’m looking to collaborate on nothing >:|
 
 <!---

@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ItIsThyme
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently working in React and .NET
-- 💞️ I’m looking to collaborate on nothing >:|
+- 🌱 I’m currently working in React and .NET\
 
 <!---
 ItIsThyme/ItIsThyme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
